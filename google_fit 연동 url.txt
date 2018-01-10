@@ -1,0 +1,12 @@
+http://galmaegi74.tistory.com/11   [안드로이드] Volley를 사용해 Json데이터 받아오기
+
+https://www.youtube.com/watch?v=g9ma-diGXu4 유투브 강의
+
+https://ringsterz.wordpress.com/2014/12/03/volley%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-network-data-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0-1-simple-request-%EC%A0%84%EC%86%A1/
+ volley 사용
+
+http://blog.naver.com/PostView.nhn?blogId=ktw5724&logNo=220245810693&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView   구글핏(Google Fit) 내용정리
+
+http://duzi077.tistory.com/120    구글맵 sdk 설치 및 api key 발급
+
+https://developers.google.com/android/reference/com/google/android/gms/fitness/HistoryApi?hl=ko      history api 사용
